@@ -1,0 +1,40 @@
+Genesis
+exodo
+Levitico
+Numeros
+Deuteronomio
+Josue
+Jueces
+Rut
+Primera Samuel
+Segunda Samuel
+Primera Reyes
+Segunda Reyes
+Cronicas
+Primera Cronicas
+Segunda Cronicas
+Esdras
+Nehemias
+Ester
+Job
+Salmos
+Proverbios
+Eclesiastes
+Cantares
+Isaias
+Jeremias
+Lamentaciones
+Ezequiel
+Daniel
+Oseas
+Joel
+Amos
+Abdias
+Jonas
+Miqueas
+Nahum
+Habacuc
+Sofonias
+Hageo
+Zacarias
+Malaquias
